@@ -5,79 +5,130 @@ summary: " "
 weight: 4
 ---
 
-
-Rabattkuponger til diverse temaparker kan plukkes opp ved utgangen på flyplassen.
+Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 
 **Bading:**
 
-* Fonts de l'Algar, Naturlig vannkilde i fjellet. [Kart](https://goo.gl/maps/gq3qM8kzSo37dsMM6)
+- Fonts de l'Algar: En naturlig vannkilde i fjellet. [Kart](https://goo.gl/maps/gq3qM8kzSo37dsMM6)
 
-* Aqualandia, badeland med sklier ++. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
+- Aqualandia: Et badeland med sklier og mer. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
 
 **Ting å se:**
 
-
-
 **Temaparker:**
-* Mundomar. [Kart](https://goo.gl/maps/SKgs9JLnwhggBcM7A)
-* Terra Natura. [Kart](https://goo.gl/maps/gVqjRmCC8chGNGNHA)
-* Terra Mitica. [Kart](https://goo.gl/maps/pBjs6bfwn7RapkJN9)
 
-**Gå- og Sykkeltur:**
+- Mundomar: [Kart](https://goo.gl/maps/SKgs9JLnwhggBcM7A)
+  - Interaktivt hav- og dyrepark med delfinshow.
 
+- Terra Natura: [Kart](https://goo.gl/maps/gVqjRmCC8chGNGNHA)
+  - En kombinert dyrepark og vannpark med et bredt utvalg av dyrearter.
 
+- Terra Mitica: [Kart](https://goo.gl/maps/pBjs6bfwn7RapkJN9)
+  - En fornøyelsespark med spennende berg-og-dal-baner og underholdning for hele familien.
+
+**Gå- og sykkelturer:**
 
 **Bilturer:**
 
+**Museer:**
 
-**Museeum:**
+**Besøk:**
 
+- Albir:
+  - Gå til Faro del Albir.
+  - Gå opp på Serra Gelada og videre til Benidorm.
+  - Sykle langs strandpromenaden fra Albir til Altea, El Portet eller ta småveier til Altea LaVella og Foya Blanca.
 
-**Besøke:**
+- Alfaz del Pi:
+  - Vinsmaking på Bodega Enrique Mendoza.
 
+- Benidorm:
+  - Benidorm Palace: Show med middag.
+  - Relleu: Tursti med hengebroer.
 
+- Tabarca:
+  - Øy utenfor Santa Pola. Ta båttur og nyt bading.
 
+- Alicante:
+  - El Castell de Santa Barbara: Gammel festning.
+  - Passeig Esplanada d'Espanya: Promenade langs havet. Besøk også Rambla Mèndez Núñez.
 
-Albir -		Gå til Faro del Albir
-		Gå opp på Serra Gelada og videre til Benidorm
-Sykle Strandpromenaden Albir -> Altea -> El Portet eller på småveier til Altea LaVella og Foya Blanca
-Alfaz del Pi -	Vinsmaking Bodega Enrique Mendoza 
-Benidorm Palace – Show med middag
-Relleau – 	Tursti med hengebroer 
-Tabarca - 	Øy utenfor Santa Pola (Båttur/Bading)
-Alicante – 	El Castell de Santa Barbara (gammel festning)
-		Passeig Esplanada d’Espanya (promenade) / Rambla Mèndes Nuñez
-El Castell de Guadalest (gammel festning) Anbefales m/lunch i nabobyen, Benimantell
-Villajoyosa – 	Strand, fargerike gamle hus
-Valor, sjokoladefabrikk/museum/omvisning
-Gå fra Playa Torres til Villajoyosa, fin tur ca 3 km
-Moraira - 	Koselig Bade & Lunch sted
-Calpe -		Panyal d’fach (gå opp til toppen av Calpeklippen)
-Valencia - 	Oceanografic (akvarie)/ Temamuseum Naturvitenskap
-		Gamlebyen
-Safari Aitana – Drive inn Zoo (anbefaler å kjøre sammen med foringsbilen)
+- El Castell de Guadalest:
+  - Gammel festning. Anbefales å kombinere med lunsj i nabobyen Benimantell.
 
-Fra Denia går det ferger til Formentera, Ibiza og Mallorca
+- Villajoyosa:
+  - Strand og fargerike gamle hus.
+
+- Valor:
+  - Sjokoladefabrikk, museum og omvisning.
+
+- Moraira:
+  - Koselig sted for bading og lunsj.
+
+- Calpe:
+  - Panyal d'Ifach: Gå opp til toppen av Calpeklippen.
+
+- Valencia:
+  - Oceanografic: Akvarium og temamuseum for naturvitenskap.
+  - Gamlebyen.
+
+- Safari Aitana:
+  - Drive-in zoo. Anbefales å kjøre samtidig som foringsbilen.
+
+- Fra Denia går det ferger til Formentera, Ibiza og Mallorca.
+
 Litt lenger unna, sørover:
-Cartagena – Museo del Teatro Romano
-Guadix – Bo i hulehotell
-Sierra Nevada - Fjell, skisport
-Granada -	 Alhambra (anbefaler guidet tur)
-Nerja -		Grotter
-Frigliana -	Spanias vakreste landsby?
-Malaga
-Côrdoba – Mezquita Moske-katedral 
-Marbella – Appelsintorget, Porto Banus
-Ronda – En av Spanias eldste steder, berømt bro
-Mijas – vakker hvit landsby
-Caminito del Rey – Tursti med hangebroer, må bestille billetter.
+
+- Cartagena:
+  - Museo del Teatro Romano.
+
+- Guadix:
+  - Bo på hulehotell.
+
+- Sierra Nevada:
+  - Fjellområde for skisport.
+
+- Granada:
+  - Alhambra,Anbefales å ta en guidet tur.
+
+- Nerja:
+  - Grotter.
+
+- Frigiliana:
+  - Spanias vakreste landsby?
+
+- Malaga.
+
+- Córdoba:
+  - Mezquita: Moské-katedral.
+
+- Marbella:
+  - Appelsintorget, Puerto Banus.
+
+- Ronda:
+  - En av Spanias eldste byer, kjent for sin berømte bro.
+
+- Mijas:
+  - Vakker hvit landsby.
+
+- Caminito del Rey:
+  - Tursti med hengebroer. Må bestille billetter på forhånd.
 
 Enda lenger unna, nord/vestover:
-Rioja vindistrikt, Haro eller Logroño
-Bilbao – Guggenheim museum, gamlebyen
-San Sebastian - Strand, Gamleby, kjent for Pintxos (Tapas)
-Ordesa Nasjonalpark, Torla. Turer høyt i fjellene
 
-Barcelona
-Sitges – Koselig badeby
-Montserrat kloster (vest for Barcelona)
+- Rioja vindistrikt: Besøk Haro eller Logroño.
+
+- Bilbao:
+  - Guggenheim-museet og gamlebyen.
+
+- San Sebastian:
+  - Strand, gamleby og kjent for Pintxos (Tapas).
+
+- Ordesa nasjonalpark, Torla: Turer i høyfjellet.
+
+- Barcelona.
+
+- Sitges:
+  - Koselig badeby.
+
+- Montserrat kloster: Vest for Barcelona.

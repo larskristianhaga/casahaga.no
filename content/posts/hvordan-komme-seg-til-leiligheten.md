@@ -9,9 +9,9 @@ weight: 2
 
 [Kart](https://goo.gl/maps/KiQ6DqeSqVaB1Aog8)
 
-`Bil 8613 JXP`
+Bilskilt: 8613 JXP
 
-Leilighet 4F
+Leilighet: 4F
 
 **Full adresse:**
 
@@ -21,27 +21,16 @@ Leilighet 4F
 **Veibeskrivelse:**
 
 
-Veibeskrivelse fra Alicante airport til L’Albir:
+Fra Alicante flyplass til Leiligheten:
 
-A7 Valencia
-
-AP7 Valencia
-
-Avkjørsel 65 Benidorm
-
-CV-753 (N-332) Alfaz del Pi
-
-N-332 Altea
-
-Høyre v/McDonald's
-
-(Playa del Albir)
-
-Venstre i 1. Rundkjøring v/Lidl/hotel Playa Albir
-
-Gul oval blokk på høyre side 200 meter etter Hotel Playa Albir / Lidl.
-Stort sett alltid ledig parkering på gata utenfor, ellers parkeringsplass i kjeller etter bygget på høyre side.
-
-Parkeringsplass nr. 39
-
-Heis 4 etg. Leilighet 4F
+1. Ta A7 mot Valencia.
+2. Slå sammen på AP7 mot Valencia.
+3. Ta avkjørsel 65 mot Benidorm.
+4. Følg CV-753 (N-332) mot Alfaz del Pi.
+5. Fortsett på N-332 mot Altea.
+6. Ta til høyre ved McDonald's, ned mot Playa del Albir.
+7. Ta tredje avkjøring i rundkjøringen ved Lidl/hotel Playa Albir.
+8. Se etter en gul oval blokk på høyre side, 200 meter etter Hotel Playa Albir/Lidl.
+   Det er vanligvis ledig gateparkering utenfor, ellers er det parkeringsplass i kjelleren på venstre side av bygningen.
+9. Parkering i plass nummer 39.
+10. Ta heisen til 4. etasje. Leilighet 4F.
