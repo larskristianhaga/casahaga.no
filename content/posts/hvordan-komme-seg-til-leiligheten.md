@@ -13,6 +13,10 @@ weight: 2
 
 Leilighet 4F
 
+**Full adresse:**
+
+`Estrella del Albir 1A 4F, Camino viejo de Altea 48, 03581 Albir`
+
 
 **Veibeskrivelse:**
 
@@ -35,17 +39,9 @@ Høyre v/McDonald's
 
 Venstre i 1. Rundkjøring v/Lidl/hotel Playa Albir
 
-200 m på høyre side, Estrella1
-
-Gul avrundet 5. etg blokk
-
-Parkeringsplass i kjelleren etter bygget på høyre side.
+Gul oval blokk på høyre side 200 meter etter Hotel Playa Albir / Lidl.
+Stort sett alltid ledig parkering på gata utenfor, ellers parkeringsplass i kjeller etter bygget på høyre side.
 
 Parkeringsplass nr. 39
 
 Heis 4 etg. Leilighet 4F
-
-
-**Full adresse:**
-
-`Estrella del Albir 1A 4F, Camino viejo de Altea 48, 03581 Albir`

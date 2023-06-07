@@ -5,6 +5,9 @@ summary: " "
 weight: 4
 ---
 
+
+Rabattkuponger til diverse temaparker kan plukkes opp ved utgangen på flyplassen.
+
 **Bading:**
 
 * Fonts de l'Algar, Naturlig vannkilde i fjellet. [Kart](https://goo.gl/maps/gq3qM8kzSo37dsMM6)

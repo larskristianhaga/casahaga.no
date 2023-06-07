@@ -5,14 +5,6 @@ summary: " "
 weight: 1
 ---
 
-**Telefonnummere:**
-* Øyeblikkelig hjelp: 112
-* Brann: 080 eller 085
-* Det nasjonale politiet: 091
-* Guardia Civil: 062
-* Medisinske nødsituasjoner: 061
-* Vold mot kvinner: 016
-* Vold mot menn: XXX
-* Giftinformasjonsentralen: 915 620 420
-* For å melde om trafikkulykker: 900 123 505
-* Røde kors sin nødtelefon: 901 222 222
+Stor nøkkel passer til de to ytre dørene, den andre til leiligheten. Husk at det er smekklås!
+
+Ved ankomst; Hovedsikring bak inngangsdør må skus på!
