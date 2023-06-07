@@ -1,4 +1,12 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+baseURL = 'http://casahaga.no/'
+languageCode = 'nb'
+title = 'Casa Haga'
+theme = 'PaperMod'
+
+[params]
+defaultTheme = "auto"
+ShowReadingTime = true
+
+[params.homeInfoParams]
+Title = "Velkommen!"
+Content = "Her finner du praktisk info om leiligheten, og ting å gjøre i nærheten"
