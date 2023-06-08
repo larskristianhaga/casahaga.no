@@ -5,7 +5,6 @@ theme = 'PaperMod'
 
 [params]
 defaultTheme = "auto"
-ShowReadingTime = true
 
 [params.homeInfoParams]
 Title = "Velkommen!"
