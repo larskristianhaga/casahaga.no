@@ -12,7 +12,6 @@ weight: 3
 * Guardia Civil: 062
 * Medisinske nødsituasjoner: 061
 * Vold mot kvinner: 016
-* Vold mot menn: XXX
 * Giftinformasjonsentralen: 915 620 420
 * For å melde om trafikkulykker: 900 123 505
 * Røde kors sin nødtelefon: 901 222 222
