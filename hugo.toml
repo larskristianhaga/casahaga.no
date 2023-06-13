@@ -5,7 +5,9 @@ theme = 'PaperMod'
 
 [params]
 defaultTheme = "auto"
+description = "Personlig nettside for praktisk informasjon om Spania leiligheten."
+enableGitInfo = true
 
 [params.homeInfoParams]
 Title = "Velkommen!"
-Content = "Her finner du praktisk info om leiligheten, og ting å gjøre i nærheten"
+Content = "Her finner du praktisk informasjon om leiligheten, og ting å gjøre i nærheten"
