@@ -5,4 +5,13 @@ summary: " "
 weight: 1
 ---
 
-Her kommer praktisk informasjon om leiligheten
+## Praktisk informasjon
+
+Busstider - [wwe.alsa.es](wwe.alsa.es)  
+Buss 10 - Albir-Altea-Benidorm  
+Taxi App: [PideTaxi](https://pidetaxi.es/en/)
+
+Taxi telefonummer:  
++34965862626 Albir  
++34965856101 Albir  
++34966810010 Alfaz
