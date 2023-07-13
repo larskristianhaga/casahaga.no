@@ -7,26 +7,39 @@ weight: 4
 
 Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 
+[Kart med noen av de viktigste tingene](https://goo.gl/maps/7tzrL3nMRPg9ab7L6).
+
 **Bading:**
 
-- Fonts de l'Algar: En naturlig vannkilde i fjellet. [Kart](https://goo.gl/maps/gq3qM8kzSo37dsMM6)
-
-- Aqualandia: Et badeland med sklier og mer. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
+- Felles basseng for beboere i blokken.
+- Steinstrand ved sjøen. [Kart](https://goo.gl/maps/4m8BergRQX9jUMMy9)
+    - Her anbefales det å ha slippers/strandsko, det finnes ett utvalg i leiligheten.
+- Sandstrand i Benidorm. [Kart](https://goo.gl/maps/FyBjHmSGxmXhC7937)
+- Fonts de l'Algar, En naturlig vannkilde i fjellet. [Kart](https://goo.gl/maps/gq3qM8kzSo37dsMM6)
+- Aqualandia, Badeland med sklier og mer. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
 
 **Ting å se:**
 
 **Temaparker:**
 
-- Mundomar: [Kart](https://goo.gl/maps/SKgs9JLnwhggBcM7A)
-  - Interaktivt hav- og dyrepark med delfinshow.
-
-- Terra Natura: [Kart](https://goo.gl/maps/gVqjRmCC8chGNGNHA)
-  - En kombinert dyrepark og vannpark med et bredt utvalg av dyrearter.
-
-- Terra Mitica: [Kart](https://goo.gl/maps/pBjs6bfwn7RapkJN9)
-  - En fornøyelsespark med spennende berg-og-dal-baner og underholdning for hele familien.
+- Mundomar. [Kart](https://goo.gl/maps/SKgs9JLnwhggBcM7A)
+    - Interaktivt hav- og dyrepark med delfinshow.
+- Terra Natura. [Kart](https://goo.gl/maps/gVqjRmCC8chGNGNHA)
+    - Kombinert dyrepark og vannpark med et bredt utvalg av dyrearter.
+- Terra Mitica. [Kart](https://goo.gl/maps/pBjs6bfwn7RapkJN9)
+    - Fornøyelsespark med spennende berg-og-dal-baner og underholdning for hele familien.
+- Aqualandia. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
+    - Badeland med sklier og mer
 
 **Gå- og sykkelturer:**
+
+- Albir:
+    - Gå til Faro del Albir.
+    - Gå opp på Serra Gelada og videre til Benidorm.
+    - Sykle langs strandpromenaden fra Albir til Altea, El Portet eller ta småveier til Altea LaVella og Foya Blanca.
+- Benidorm:
+    - Gå langs strandpromenaden, og gjennom gamlebyen.
+    - Relleu: Tursti med hengebroer.
 
 **Bilturer:**
 
@@ -34,101 +47,95 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 
 **Besøk:**
 
-- Albir:
-  - Gå til Faro del Albir.
-  - Gå opp på Serra Gelada og videre til Benidorm.
-  - Sykle langs strandpromenaden fra Albir til Altea, El Portet eller ta småveier til Altea LaVella og Foya Blanca.
-
 - Alfaz del Pi:
-  - Vinsmaking på Bodega Enrique Mendoza.
+    - Vinsmaking på Bodega Enrique Mendoza.
 
 - Benidorm:
-  - Benidorm Palace: Show med middag.
-  - Relleu: Tursti med hengebroer.
+    - Benidorm Palace: Show med middag.
 
 - Tabarca:
-  - Øy utenfor Santa Pola. Ta båttur og nyt bading.
+    - Øy utenfor Santa Pola. Ta båttur og nyt bading.
 
 - Alicante:
-  - El Castell de Santa Barbara: Gammel festning.
-  - Passeig Esplanada d'Espanya: Promenade langs havet. Besøk også Rambla Mèndez Núñez.
+    - El Castell de Santa Barbara: Gammel festning.
+    - Passeig Esplanada d'Espanya: Promenade langs havet. Besøk også Rambla Mèndez Núñez.
 
 - El Castell de Guadalest:
-  - Gammel festning. Anbefales å kombinere med lunsj i nabobyen Benimantell.
+    - Gammel festning. Anbefales å kombinere med lunsj i nabobyen Benimantell.
 
 - Villajoyosa:
-  - Strand og fargerike gamle hus.
+    - Strand og fargerike gamle hus.
 
 - Valor:
-  - Sjokoladefabrikk, museum og omvisning.
+    - Sjokoladefabrikk, museum og omvisning.
 
 - Moraira:
-  - Koselig sted for bading og lunsj.
+    - Koselig sted for bading og lunsj.
 
 - Calpe:
-  - Panyal d'Ifach: Gå opp til toppen av Calpeklippen.
+    - Panyal d'Ifach: Gå opp til toppen av Calpeklippen.
 
 - Valencia:
-  - Oceanografic: Akvarium og temamuseum for naturvitenskap.
-  - Gamlebyen.
+    - Oceanografic: Akvarium og temamuseum for naturvitenskap.
+    - Gamlebyen.
 
 - Safari Aitana:
-  - Drive-in zoo. Anbefales å kjøre samtidig som foringsbilen.
+    - Drive-in zoo. Anbefales sterkt å kjøre samtidig som foringsbilen.
 
 - Fra Denia går det ferger til Formentera, Ibiza og Mallorca.
 
 Litt lenger unna, sørover:
 
 - Cartagena:
-  - Museo del Teatro Romano.
+    - Museo del Teatro Romano.
 
 - Guadix:
-  - Bo på hulehotell.
+    - Bo på hulehotell.
 
 - Sierra Nevada:
-  - Fjellområde for skisport.
+    - Fjellområde for skisport.
 
 - Granada:
-  - Alhambra,Anbefales å ta en guidet tur.
+    - Alhambra,Anbefales å ta en guidet tur.
 
 - Nerja:
-  - Grotter.
+    - Grotter.
 
 - Frigiliana:
-  - Spanias vakreste landsby?
+    - Spanias vakreste landsby?
 
 - Malaga.
 
 - Córdoba:
-  - Mezquita: Moské-katedral.
+    - Mezquita: Moské-katedral.
 
 - Marbella:
-  - Appelsintorget, Puerto Banus.
+    - Appelsintorget, Puerto Banus.
 
 - Ronda:
-  - En av Spanias eldste byer, kjent for sin berømte bro.
+    - En av Spanias eldste byer, kjent for sin berømte bro.
 
 - Mijas:
-  - Vakker hvit landsby.
+    - Vakker hvit landsby.
 
 - Caminito del Rey:
-  - Tursti med hengebroer. Må bestille billetter på forhånd.
+    - Tursti med hengebroer. Må bestille billetter på forhånd.
 
 Enda lenger unna, nord/vestover:
 
 - Rioja vindistrikt: Besøk Haro eller Logroño.
 
 - Bilbao:
-  - Guggenheim-museet og gamlebyen.
+    - Guggenheim-museet og gamlebyen.
 
 - San Sebastian:
-  - Strand, gamleby og kjent for Pintxos (Tapas).
+    - Strand, gamleby og kjent for Pintxos (Tapas).
 
 - Ordesa nasjonalpark, Torla: Turer i høyfjellet.
 
 - Barcelona.
 
 - Sitges:
-  - Koselig badeby.
+    - Koselig badeby.
 
 - Montserrat kloster: Vest for Barcelona.

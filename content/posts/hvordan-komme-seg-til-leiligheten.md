@@ -2,35 +2,29 @@
 title: "Hvordan komme seg til leiligheten"
 date: 2023-06-07
 summary: " "
-weight: 2
+weight: 1
 ---
 
 **TL;DR**
 
-[Kart](https://goo.gl/maps/KiQ6DqeSqVaB1Aog8)
+[Link til kart](https://goo.gl/maps/f7cJfBB9dKED4Aw56)
 
-Bilskilt: 8613 JXP
+Kordinater: `38°34'29.7"N` `0°04'23.1"W`
+
+Adresse: `Estrella del Albir 1A 4F, Camino viejo de Altea 48, 03581 Albir`
 
 Leilighet: 4F
 
-**Full adresse:**
+**Veibeskrivelse fra Alicante flyplass til Leiligheten:**
 
-`Estrella del Albir 1A 4F, Camino viejo de Altea 48, 03581 Albir`
+1. Ta `A7` mot `Valencia`.
+2. Slå sammen på `AP7` mot `Valencia`.
+3. Ta avkjørsel `65` mot `Benidorm`.
+4. Følg `CV-753` (N-332) mot `Alfaz del Pi`.
+5. Fortsett på `N-332` mot `Altea`.
+6. Ta til høyre ved `McDonald's`, ned mot `Playa del Albir`.
+7. Ta `tredje avkjøring` i rundkjøringen ved `Lidl`/`Hotel Playa Albir`.
+8. Etter 200 meter ser du en gul oval blokk på høyre side.
 
-
-**Veibeskrivelse:**
-
-
-Fra Alicante flyplass til Leiligheten:
-
-1. Ta A7 mot Valencia.
-2. Slå sammen på AP7 mot Valencia.
-3. Ta avkjørsel 65 mot Benidorm.
-4. Følg CV-753 (N-332) mot Alfaz del Pi.
-5. Fortsett på N-332 mot Altea.
-6. Ta til høyre ved McDonald's, ned mot Playa del Albir.
-7. Ta tredje avkjøring i rundkjøringen ved Lidl/hotel Playa Albir.
-8. Se etter en gul oval blokk på høyre side, 200 meter etter Hotel Playa Albir/Lidl.
-   Det er vanligvis ledig gateparkering utenfor, ellers er det parkeringsplass i kjelleren på venstre side av bygningen.
-9. Parkering i plass nummer 39.
-10. Ta heisen til 4. etasje. Leilighet 4F.
+Vanligvis er det ledig gateparkering utenfor,
+ellers er det parkeringsplass nummer 39 i kjelleren med innkjøring på venstre side av bygningen.

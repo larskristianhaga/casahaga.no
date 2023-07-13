@@ -15,3 +15,7 @@ Taxi telefonummer:
 +34965862626 Albir  
 +34965856101 Albir  
 +34966810010 Alfaz
+
+Det meste man trenger til det daglige er tilgjengelig i leiligheten.
+Feks sjampo, balsam, dusjsåpe, body lotion, hårføner, håndklær, sengetøy, ++.   
+Håndklær som ligger i toppen av skapene kan brukes ved bassenget og stranden.

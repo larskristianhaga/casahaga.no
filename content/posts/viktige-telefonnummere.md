@@ -6,6 +6,7 @@ weight: 3
 ---
 
 **Telefonnummere:**
+
 * Øyeblikkelig hjelp: 112
 * Brann: 080 eller 085
 * Det nasjonale politiet: 091
