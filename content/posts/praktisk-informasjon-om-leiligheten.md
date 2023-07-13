@@ -7,8 +7,7 @@ weight: 1
 
 ## Praktisk informasjon
 
-Busstider - [wwe.alsa.es](wwe.alsa.es)  
-Buss 10 - Albir-Altea-Benidorm  
+Busstider - [alicante.avanzagrupo.com](https://alicante.avanzagrupo.com/en/routes-and-timetables/all-routes), buss 10 - Albir-Altea-Benidorm  
 Taxi App: [PideTaxi](https://pidetaxi.es/en/)
 
 Taxi telefonummer:  
