@@ -9,7 +9,7 @@ weight: 6
 * Leiligheten skal støvsuges og vaskes, inkludert bad og toalett.
 * Ta av sengetøy og legg skitne håndklær i skittentøyskurven på vaskerommet.
 * Ta inn putene fra terrassen oppe og stable møblene under tak.
-* Vann planten på terrassen oppe.
+* Vann plantene på terrassen oppe.
 * Sett inn stolene fra terrassen og ta inn putene.
 * Tøm oppvaskmaskinen og sett døren på gløtt.
 * Kast mat som er igjen i kjøleskapet og åpne døren til både kjøleskapet og fryseren, bruk en sperre for å hindre at døren lukkes helt.
