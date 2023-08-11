@@ -31,6 +31,6 @@ ellers er det parkeringsplass nummer 39 i kjelleren med innkjøring på venstre 
 
 ### Andre måter å komme seg til leiligheten:
 
-"Marianne tours" kjører til/fra flyplassen, og må bestilles minst 2 dager på forhånd før ankomst. [Nettside](https://www.mariannetours.com/panel/book.php?idioma=ng)
+"Marianne tours" kjører til/fra flyplassen, og må bestilles minst 2 dager på forhånd før ankomst. [Nettside](https://www.mariannetours.com/), [Booking](https://www.mariannetours.com/panel/book.php?idioma=ng)
 
 Det er også mulighet til å ta buss fra Alicante flyplass til Benidorm, så bytte buss til Albir. Dette er nok den billigste måten, men også den som tar mest tid, 2+ timer.
