@@ -1,4 +1,4 @@
-baseURL = 'http://casahaga.no/'
+baseURL = 'https://casahaga.no/'
 languageCode = 'nb'
 title = 'Casa Haga'
 theme = 'PaperMod'
@@ -10,9 +10,9 @@ enableGitInfo = true
 
 [params.homeInfoParams]
 Title = "Velkommen!"
-Content = "Her finner du praktisk informasjon om leiligheten, ting å gjøre i nærheten, og annen nyttig informasjon."
+Content = "Her finner du praktisk informasjon om leiligheten, ting å gjøre i nærheten, og annen nyttig informasjon. \n\n Hvis du har forslag til endringer generelt, eller til en side, send meg gjerne en epost på `larskhaga@gmail.com`"
 
 [params.editPost]
 URL = "mailto://larskhaga@gmail.com?subject=Endringsforslag "
-Text = "Trykk her for å komme med endringsforslag til denne siden"
+Text = "Kom med endringsforslag til denne siden"
 appendFilePath = true
