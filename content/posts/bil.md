@@ -10,9 +10,11 @@ Firmanaavn: `ASCARS`\
 Kundenummer: `IP541`\
 Epost: `info@parkingascars.com`\
 Telefonnummer: `+34 648 966 090`\
-Registreringsnummer på bilen: `8613 JXP`\
-[Nettside](https://parkingascars.com/)\
-[Kart](https://goo.gl/maps/cV7Sh8qjYRpZ2NtMA)
+Registreringsnummer på bilen: `8613 JXP`
+
+
+[Kart](https://goo.gl/maps/cV7Sh8qjYRpZ2NtMA)\
+[Nettside](https://parkingascars.com/)
 
 Bilen må minst bestilles 2 dager før ankomst, og det kan enkelt gjøres via epost. Her er ett eksempel på en mail som kan sendes:
 > Contact IP541, 8613 JXP
