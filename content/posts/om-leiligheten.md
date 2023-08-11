@@ -6,3 +6,4 @@ weight: 1
 draft: true
 ---
 
+Denne siden er under arbeid. Her kommer mer info og bilder av leiligheten.

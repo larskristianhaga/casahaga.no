@@ -2,10 +2,8 @@
 title: "Bil"
 date: 2023-08-11
 summary: " "
-weight: 1
-isHidden: true
-hiddenInList: true
-hidden: true
+weight: 3
+draft: true
 ---
 
-Bilside!
+Denne siden er under arbeid. Her kommer mer info om bilen.
