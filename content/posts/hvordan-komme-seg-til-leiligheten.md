@@ -5,7 +5,7 @@ summary: " "
 weight: 1
 ---
 
-**TL;DR**
+### TL;DR
 
 [Link til kart](https://goo.gl/maps/f7cJfBB9dKED4Aw56)
 
@@ -15,7 +15,7 @@ Adresse: `Estrella del Albir 1A 4F, Camino viejo de Altea 48, 03581 Albir`
 
 Leilighet: 4F
 
-**Veibeskrivelse fra Alicante flyplass til Leiligheten:**
+### Veibeskrivelse fra Alicante flyplass til leiligheten:
 
 1. Ta `A7` mot `Valencia`.
 2. Slå sammen på `AP7` mot `Valencia`.
@@ -28,3 +28,9 @@ Leilighet: 4F
 
 Vanligvis er det ledig gateparkering utenfor,
 ellers er det parkeringsplass nummer 39 i kjelleren med innkjøring på venstre side av bygningen.
+
+### Andre måter å komme seg til leiligheten:
+
+"Marianne tours" kjører til/fra flyplassen, og må bestilles minst 2 dager på forhånd før ankomst. [Nettside](https://www.mariannetours.com/panel/book.php?idioma=ng)
+
+Det er også mulighet til å ta buss fra Alicante flyplass til Benidorm, så bytte buss til Albir. Dette er nok den billigste måten, men også den som tar mest tid, 2+ timer.
