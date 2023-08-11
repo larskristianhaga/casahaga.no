@@ -40,4 +40,4 @@ weight: 4
 
 [Valencia – både historisk og trendy](https://reisekick.no/valencia-en-leken-og-livlig-by/)
 
-[Trammen/trikken mellom Alicante og Denia](https://reisekick.no/trikken-mellom-alicante-og-benidorm/)
+[Trikken mellom Alicante og Denia](https://reisekick.no/trikken-mellom-alicante-og-benidorm/)
