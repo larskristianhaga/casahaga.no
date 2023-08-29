@@ -21,5 +21,5 @@ weight: 3
 
 **Ambasade/Konsulat:**
 
-Nærmeste konsulat er i Alicante. Trykk [her](https://www.norway.no/es/spain/for-nordmenn/ambassaden-og-konsulatene/honorare-konsulater/) for adresse og åpningstider.\
-Nærmeste ambasade er i Madrid. Trykk [her](https://www.norway.no/es/spain/for-nordmenn/ambassaden-og-konsulatene/kontakt-ambassaden/) for adresse og åpningstider.
+Nærmeste konsulat er i Alicante. [Nettside](https://www.norway.no/es/spain/for-nordmenn/ambassaden-og-konsulatene/honorare-konsulater/).\
+Nærmeste ambasade er i Madrid. [Nettside](https://www.norway.no/es/spain/for-nordmenn/ambassaden-og-konsulatene/kontakt-ambassaden/).

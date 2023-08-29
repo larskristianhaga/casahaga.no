@@ -14,6 +14,7 @@ weight: 6
 - Tøm oppvaskmaskinen og sett døren på gløtt.
 - Kast mat som er igjen i kjøleskapet og åpne døren til både kjøleskapet og fryseren, bruk en sperre for å hindre at døren lukkes helt.
 - Senk alle persienner foran vinduene, inkludert på øverste etasje og gjesterommet.
-- Skru av hovedvannkranen bak døren på vaskerommet. Vær forsiktig, kan være hard å skru på.
+- Skru av hovedvannkranen bak døren på vaskerommet.
+    - Kan være noe hard å skru på.
 - Skru av hovedsikringene i øverste rad bak inngangsdøren.
 - Lås døren.

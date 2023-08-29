@@ -28,12 +28,12 @@ Bilen må minst bestilles 2 dager før ankomst, og det kan enkelt gjøres via ep
 Biltype: `Ford C-Max`\
 Girkasse: `manuell`\
 Antall seter: `5`\
-Drivstoff: `bensin`\
+Drivstoff: `Bensin`\
 Parkeringsplass ved leiligheten: `39`
 
-Det er fint plass til 4 personer i bilen hvor alle har 1 stykk innsjekket bagasje.
+Det er greit plass til 4 personer i bilen, og hvor alle har 1 stykk innsjekket bagasje.
 
-### Hente bilen på flyplassen
+### Hvordan bli hentet på flyplassen
 
 - Etter å ha hentet bagasjen/begynt å gå mot utgangen, ring deres telefonnummer.
 - Oppgi ditt navn og kundenummer, og si at dere er på vei ut, og ønsker å bli hentet.
@@ -41,7 +41,7 @@ Det er fint plass til 4 personer i bilen hvor alle har 1 stykk innsjekket bagasj
 - Gå mot plassene `1-5`.
 - Minibussen deres markert med `ASCARS` vil da møte dere der.
 
-### Levere bilen
+### Hvordan levere bilen
 
 - Kjør tilbake til der dere hentet bilen, se kart øverst på siden, eller som favoritt på bilens GPS.
 - Tøm bilen for bagasje.
