@@ -7,6 +7,8 @@ weight: 5
 
 ## Anbefalte restauranter
 
+Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/qaBBAcQwqNken1d68).
+
 ### Albir:
 
 **Pizza 4 you**, [Meny](https://pizza4u.es/en/menu/), [Kart](https://goo.gl/maps/rmptJrDYUtaAAiM19)\
@@ -15,7 +17,9 @@ weight: 5
 **Palmen**, [Meny](https://www.palmenrestaurant.com/#section-menu), [Kart](https://goo.gl/maps/ifChBWhYq5GE94nn7)\
 **Caminito**, [Meny](https://caminitoargentiniangrillinglish.blogspot.com/2019/03/menu.html), [Kart](https://goo.gl/maps/UnHiSTBdQvfDhAu86)\
 **Zero Zero**, [Nettside](https://zerozeroaltea.com/), [Kart](https://goo.gl/maps/LqhNjAzy4iprq1rp9)\
-**De Lab**, [Meny](https://buonmenu.com/delab), [Kart](https://goo.gl/maps/8y5cX3FuagXvyXNHA)
+**De Lab**, [Meny](https://buonmenu.com/delab), [Kart](https://goo.gl/maps/8y5cX3FuagXvyXNHA)\
+**La Rive**, [Nettside](https://www.facebook.com/profile.php?id=100075575393549), [Kart](https://goo.gl/maps/5cPPmjNz9RCo3SZ4A)\
+**See the Sea**, [Meny](https://cartamenumovil.com/seethesea/), [Kart](https://goo.gl/maps/AX9WuQKYPDtkQ4UU7) 
 
 &nbsp;
 
