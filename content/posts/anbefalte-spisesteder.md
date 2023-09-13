@@ -1,7 +1,6 @@
 ---
 title: "Anbefalte spisesteder"
 date: 2023-06-14
-summary: " "
 weight: 5
 ---
 

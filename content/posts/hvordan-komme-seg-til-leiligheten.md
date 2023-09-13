@@ -1,7 +1,6 @@
 ---
 title: "Hvordan komme seg til leiligheten"
 date: 2023-06-07
-summary: " "
 weight: 1
 ---
 

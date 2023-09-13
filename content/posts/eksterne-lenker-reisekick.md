@@ -1,7 +1,6 @@
 ---
 title: "Eksterne leker - Reisekick.no"
 date: 2023-06-08
-summary: " "
 weight: 4
 ---
 
