@@ -18,6 +18,8 @@ Det meste man trenger til det daglige er tilgjengelig i leiligheten.
 Feks sjampo, balsam, dusjsåpe, body lotion, hårføner, håndklær, sengetøy, ++.\
 Håndklær som ligger i toppen av skapene kan brukes ved bassenget og stranden.
 
+*Parasoll på terrassen må ikke være oppe uten tilsyn ved litt vind.*
+
 ### Apper
 
 **AlbirLife** - Oversikt over spisesteder i Albir og omegn.\

@@ -40,6 +40,9 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 - Benidorm:
     - Gå langs strandpromenaden, og gjennom gamlebyen.
     - Relleu: Tursti med hengebroer.
+- Kyststi fra Playa Torres til Villajoyosa
+
+
 
 **Bilturer:**
 
@@ -65,9 +68,7 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 
 - Villajoyosa:
     - Strand og fargerike gamle hus.
-
-- Valor:
-    - Sjokoladefabrikk, museum og omvisning.
+    - Valor sjokoaldefabrikk, museum og omvisning.
 
 - Moraira:
     - Koselig sted for bading og lunsj.
