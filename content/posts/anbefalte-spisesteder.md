@@ -67,4 +67,4 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 
 ### Alicante:
 
-**Distrikt 41**, [Meny](https://distrikt41.es/menu/), [Kart](https://goo.gl/maps/mnuDVgQxRSRsDHny6)\
+**Distrikt 41**, [Meny](https://distrikt41.es/menu/), [Kart](https://goo.gl/maps/mnuDVgQxRSRsDHny6)
