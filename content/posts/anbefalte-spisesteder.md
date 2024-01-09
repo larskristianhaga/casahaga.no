@@ -17,7 +17,6 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 **Caminito**, [Meny](https://caminitoargentiniangrillinglish.blogspot.com/2019/03/menu.html), [Kart](https://goo.gl/maps/UnHiSTBdQvfDhAu86)\
 **Zero Zero**, [Nettside](https://zerozeroaltea.com/), [Kart](https://goo.gl/maps/LqhNjAzy4iprq1rp9)\
 **De Lab**, [Meny](https://buonmenu.com/delab), [Kart](https://goo.gl/maps/8y5cX3FuagXvyXNHA)\
-**La Rive**, [Nettside](https://www.facebook.com/profile.php?id=100075575393549), [Kart](https://goo.gl/maps/5cPPmjNz9RCo3SZ4A)\
 **See the Sea**, [Meny](https://cartamenumovil.com/seethesea/), [Kart](https://goo.gl/maps/AX9WuQKYPDtkQ4UU7) 
 
 &nbsp;
@@ -68,4 +67,4 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 
 ### Alicante:
 
-**Distrikt 41**, [Meny](https://distrikt41.es/menu/), [Kart](https://goo.gl/maps/mnuDVgQxRSRsDHny6)\
+**Distrikt 41**, [Meny](https://distrikt41.es/menu/), [Kart](https://goo.gl/maps/mnuDVgQxRSRsDHny6)
