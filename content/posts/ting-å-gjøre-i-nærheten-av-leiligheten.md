@@ -41,7 +41,8 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
     - Relleu: Tursti med hengebroer.
 - Kyststi fra Playa Torres til Villajoyosa
 
-
+- Lenker:
+    - [12 Topp gåturer på Costa Blanca](https://www.spania24.no/12-topp-gaturer-pa-costa-blanca/)
 
 **Bilturer:**
 
