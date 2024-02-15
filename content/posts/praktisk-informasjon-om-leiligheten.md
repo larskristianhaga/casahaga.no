@@ -1,7 +1,7 @@
 ---
 title: "Praktisk informasjon om leiligheten"
 date: 2023-06-07
-weight: 1
+weight: 3
 ---
 
 ## Praktisk informasjon

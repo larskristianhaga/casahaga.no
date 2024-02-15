@@ -1,7 +1,7 @@
 ---
 title: "Anbefalte spisesteder"
 date: 2023-06-14
-weight: 5
+weight: 7
 ---
 
 ## Anbefalte restauranter
