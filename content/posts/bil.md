@@ -19,9 +19,9 @@ Registreringsnummer på bilen: `8613 JXP`
 Bilen *må* minst bestilles 2 dager før ankomst, og det kan enkelt gjøres via epost. Her er ett eksempel på en mail som kan sendes:
 > Contact IP541, Reg number: 8613 JXP
 >
-> On arrival at Alicante Airport with flight [FLIGHT NUMBER] on [DAY_OF_THE_WEEK, DATE, MONTH] we will pick up the car at around [TIME].
+> On arrival at Alicante Airport with flight [FLIGHT_NUMBER_TO_ALICANTE] on [DAY_OF_THE_WEEK, DATE, MONTH] we will pick up the car at around [TIME].
 >
-> Then we will deliver the car to you again at [DAY_OF_THE_WEEK, DATE, MONTH] around [TIME], to catch flight [FLIGHT NUMBER].
+> Then we will deliver the car to you again at [DAY_OF_THE_WEEK, DATE, MONTH] around [TIME], to catch flight [FLIGHT_NUMBER_FROM_ALICANTE].
 >
 > Thanks in advance.
 
