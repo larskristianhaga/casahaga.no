@@ -17,13 +17,14 @@ Registreringsnummer på bilen: `8613 JXP`
 [Nettside](https://parkingascars.com/)
 
 Bilen *må* minst bestilles 2 dager før ankomst, og det kan enkelt gjøres via epost. Her er ett eksempel på en mail som kan sendes:
-> Contact IP541, 8613 JXP
+> Contact IP541, Reg number: 8613 JXP
 >
-> On arrival at Alicante Airport with flight [FLIGHT NUMBER] on [DAY, DATE, MONTH] we will pick up the car at around [TIME].
+> On arrival at Alicante Airport with flight [FLIGHT NUMBER] on [DAY_OF_THE_WEEK, DATE, MONTH] we will pick up the car at around [TIME].
 >
-> Then we will deliver the car to you again at [DAY, DATE, MONTH] around [TIME].
+> Then we will deliver the car to you again at [DAY_OF_THE_WEEK, DATE, MONTH] around [TIME], to catch flight [FLIGHT NUMBER].
 >
 > Thanks in advance.
+
 
 Biltype: `Ford C-Max`\
 Girkasse: `manuell`\
