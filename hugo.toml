@@ -18,3 +18,7 @@ Content = "Her finner du praktisk informasjon om leiligheten, ting å gjøre i n
 URL = "mailto://larskhaga@gmail.com?subject=Endringsforslag "
 Text = "Kom med endringsforslag til denne siden"
 appendFilePath = true
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-0B9HL89D05'
