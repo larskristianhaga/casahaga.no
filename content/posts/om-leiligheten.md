@@ -10,9 +10,6 @@ Det finnes ett fellesbasseng for alle beboere, bassenget er ca 20x10 meter med e
 Bilde av bassengområdet:\
 ![Bassenget](/images/bassenget.jpg)
 
-Bilde av Paddel banen\
-![Basseng mot leiligheten](/images/basseng_mot_leiligheten.jpg)
-
 Bilde av basseng fra leiligheten:\
 ![Basseng fra leiligheten](/images/basseng_fra_leiligheten.jpg)
 
