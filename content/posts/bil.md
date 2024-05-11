@@ -1,6 +1,6 @@
 ---
 title: "Bil"
-date: 2023-08-11
+date: 2024-05-11
 hiddenInHomeList: true
 ---
 
@@ -22,6 +22,8 @@ Bilen *må* minst bestilles 2 dager før ankomst, og det kan enkelt gjøres via 
 > On arrival at Alicante Airport with flight [FLIGHT_NUMBER_TO_ALICANTE] on [DAY_OF_THE_WEEK, DATE, MONTH] we will pick up the car at around [TIME].
 >
 > Then we will deliver the car to you again at [DAY_OF_THE_WEEK, DATE, MONTH] around [TIME], to catch flight [FLIGHT_NUMBER_FROM_ALICANTE].
+>
+> Please confirm
 >
 > Thanks in advance.
 
