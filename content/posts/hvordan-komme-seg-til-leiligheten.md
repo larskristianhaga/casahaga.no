@@ -12,7 +12,7 @@ Kordinater: `38°34'29.7"N` `0°04'23.1"W`
 
 Adresse: `Estrella del Albir 1A 4F, Camino viejo de Altea 48, 03581 Albir`
 
-Leilighet: 4F
+Leilighet: `4F`
 
 ### Transport fra flyplassen til leiligheten:
 
