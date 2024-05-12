@@ -29,12 +29,11 @@ jobs:
 
       - name: Get list of changed files
         id: files
-        run: |
-          echo "::set-output name=list::$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^posts/')"
+        run: echo "{name}=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep 'content/posts/')" >> $GITHUB_OUTPUT
 
       - name: Get Current Date
         id: current-date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "{name}=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       - name: Replace date in changed files
         if: steps.files.outputs.list != ''
