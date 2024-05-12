@@ -1,6 +1,5 @@
 ---
 title: "Eksterne lenker - Reisekick.no"
-date: 2023-06-08
 weight: 8
 ---
 

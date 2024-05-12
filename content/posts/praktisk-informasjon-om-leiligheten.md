@@ -1,6 +1,5 @@
 ---
 title: "Praktisk informasjon om leiligheten"
-date: 2023-06-07
 weight: 3
 ---
 

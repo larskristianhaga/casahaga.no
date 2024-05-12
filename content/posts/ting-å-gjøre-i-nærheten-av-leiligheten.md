@@ -1,6 +1,5 @@
 ---
 title: "Ting å gjøre i nærheten av leiligheten"
-date: 2023-06-07
 weight: 6
 ---
 

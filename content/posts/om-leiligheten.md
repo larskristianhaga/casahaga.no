@@ -1,6 +1,5 @@
 ---
 title: "Om leiligheten"
-date: 2023-08-10
 weight: 1
 ---
 

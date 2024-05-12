@@ -1,6 +1,5 @@
 ---
 title: "Ved avreise"
-date: 2023-06-07
 weight: 9
 ---
 

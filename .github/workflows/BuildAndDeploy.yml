@@ -20,41 +20,8 @@ defaults:
     shell: bash
 
 jobs:
-  change:
-    name: Do changes
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Get list of changed files
-        id: files
-        run: echo "{name}=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep 'content/posts/')" >> $GITHUB_OUTPUT
-
-      - name: Get Current Date
-        id: current-date
-        run: echo "{name}=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
-      - name: Replace date in changed files
-        if: steps.files.outputs.list != ''
-        run: |
-          for file in ${{ steps.files.outputs.list }}
-          do
-            sed -i "0,/\d{4}-\d{2}-\d{2}/s//${{ steps.current-date.outputs.date }}/" "$file"
-          done
-        shell: bash
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -u
-          git commit -m "Auto-update date in posts" -a || echo "No changes to commit"
-          git push
-
   build:
     name: Build site
-    needs: change
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.121.0

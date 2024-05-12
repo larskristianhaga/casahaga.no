@@ -1,6 +1,5 @@
 ---
 title: "Ved ankomst"
-date: 2023-06-07
 weight: 4
 ---
 
