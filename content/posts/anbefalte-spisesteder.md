@@ -1,5 +1,6 @@
 ---
 title: "Anbefalte spisesteder"
+date: 2024-05-12
 weight: 7
 ---
 
