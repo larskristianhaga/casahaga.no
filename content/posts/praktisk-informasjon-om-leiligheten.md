@@ -3,14 +3,29 @@ title: "Praktisk informasjon om leiligheten"
 weight: 3
 ---
 
-## Praktisk informasjon
+Det finnes ett fellesbasseng for alle beboere, bassenget er ca 20x10 meter med en dyp og grunn del. Det passer fint til
+både barn og voksne.
+
+Bilde av basseng fra leiligheten:\
+![Basseng fra leiligheten](/images/basseng_fra_leiligheten.jpg#center)
+
+Bilde av bassengområdet:\
+![Bassenget](/images/basseng_fra_bakkeplan.jpg#center)
+
+Bilde av Paddel banen:\
+![Paddel bane](/images/paddel_bane.jpg#center)
+Det ligger utstyr i leiligheten for å spille.
+
+## Annen praktisk informasjon
+
+Hvis du har dårlig dekning, eller opplever at mobildata går tregt, prøv å manuelt bytte til nettverket `Movistar`.
 
 Busstider - [alicante.avanzagrupo.com](https://alicante.avanzagrupo.com/en/routes-and-timetables/all-routes), buss 10 - Albir-Altea-Benidorm\
 
 Taxi telefonummer:\
-+34965862626 Albir\
-+34965856101 Albir\
-+34966810010 Alfaz
++34 965 86 2626 Albir\
++34 965 85 6101 Albir\
++34 966 81 0010 Alfaz
 
 Det meste man trenger til det daglige er tilgjengelig i leiligheten.
 Feks sjampo, balsam, dusjsåpe, body lotion, hårføner, håndklær, sengetøy, ++.\
