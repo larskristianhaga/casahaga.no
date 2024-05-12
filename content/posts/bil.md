@@ -1,6 +1,7 @@
 ---
 title: "Bil"
 hiddenInHomeList: true
+searchHidden: true
 ---
 
 Firmaet som håndterer bilen heter *ASCARS*, de snakker både engelsk og spansk.
