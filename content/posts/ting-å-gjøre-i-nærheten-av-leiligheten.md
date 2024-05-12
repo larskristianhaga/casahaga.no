@@ -15,8 +15,10 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 - Sandstrand i Benidorm. [Kart](https://goo.gl/maps/FyBjHmSGxmXhC7937)
 - Fonts de l'Algar, En naturlig vannkilde i fjellet. [Kart](https://goo.gl/maps/gq3qM8kzSo37dsMM6)
 - Aqualandia, Badeland med sklier og mer. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
-
-**Ting å se:**
+- Magic Robin Hood, Mini badeland, Dagspass til all inclusive. [Kart](https://maps.app.goo.gl/U6wU2XopvfwBQYYKA)
+    - Billigst å bestille på nett i forveien.
+    - Finnes gratis parkering ved siden av området.
+    - Muligheter for klatring og zipline.
 
 **Temaparker:**
 
@@ -28,6 +30,19 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
     - Fornøyelsespark med spennende berg-og-dal-baner og underholdning for hele familien.
 - Aqualandia. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
     - Badeland med sklier og mer
+
+**Shopping:**
+
+- Albir:
+    - Marked på Søndager. [Kart](https://maps.app.goo.gl/ggwXL7A4wrbASufx8)
+- Alfaz del Pi:
+    - Marked på Fredager. [Kart](https://maps.app.goo.gl/hz2Wzx1tMKZ3YU228)
+- Altea:
+    - Marked på Tirsdager. [Kart](https://maps.app.goo.gl/ecnMBi3p3DZvXr1v5)
+- Benidorm:
+    - Nærmeste kjøpesente er i Benidorm, La Marina. [Kart](https://maps.app.goo.gl/VZ9Lkk13J25Hjene7)
+- Calpe:
+    - Marked på Onsdager. [Kart](https://maps.app.goo.gl/UXCLzkjqNcRCp4bDA)
 
 **Gå- og sykkelturer:**
 
@@ -42,10 +57,6 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 
 - Lenker:
     - [12 Topp gåturer på Costa Blanca](https://www.spania24.no/12-topp-gaturer-pa-costa-blanca/)
-
-**Bilturer:**
-
-**Museer:**
 
 **Besøk:**
 
@@ -84,7 +95,7 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 
 - Fra Denia går det ferger til Formentera, Ibiza og Mallorca.
 
-Litt lenger unna, sørover:
+**Lenger unna, retning sør:**
 
 - Cartagena:
     - Museo del Teatro Romano.
@@ -121,7 +132,7 @@ Litt lenger unna, sørover:
 - Caminito del Rey:
     - Tursti med hengebroer. Må bestille billetter på forhånd.
 
-Enda lenger unna, nord/vestover:
+**Lenger unna, retning nord/nordvest:**
 
 - Rioja vindistrikt: Besøk Haro eller Logroño.
 
