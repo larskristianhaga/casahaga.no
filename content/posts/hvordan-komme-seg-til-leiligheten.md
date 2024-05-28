@@ -36,7 +36,7 @@ Leilighet: 4F
 
 1. Ta `A7` mot `Valencia`.
 2. Slå sammen på `AP7` mot `Valencia`.
-3. Ta avkjørsel `65` mot `Benidorm`.
+3. Ta avkjørsel `648` mot `Benidorm`.
 4. Følg `CV-753` (N-332) mot `Alfaz del Pi`.
 5. Fortsett på `N-332` mot `Altea`.
 6. Ta til høyre ved `McDonald's`, ned mot `Playa del Albir`.
