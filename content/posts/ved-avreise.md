@@ -1,7 +1,6 @@
 ---
 title: "Ved avreise"
-date: 2023-06-07
-weight: 6
+weight: 9
 ---
 
 - Sjekk postkassen i oppgang A. En liten nøkkel henger på kjøkkenet.

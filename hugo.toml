@@ -10,6 +10,13 @@ enableGitInfo = true
 hideSummary = true
 ShowReadingTime = false
 
+[outputs]
+home = [ "HTML", "JSON" ]
+
+[params.fuseOpts]
+distance = 1_000
+threshold = 0.2
+
 [params.homeInfoParams]
 Title = "Velkommen!"
 Content = "Her finner du praktisk informasjon om leiligheten, ting å gjøre i nærheten, og annen nyttig informasjon. \n\n Hvis du har forslag til endringer generelt, eller til en side, send meg en epost på `larskhaga@gmail.com`"
@@ -18,3 +25,12 @@ Content = "Her finner du praktisk informasjon om leiligheten, ting å gjøre i n
 URL = "mailto://larskhaga@gmail.com?subject=Endringsforslag "
 Text = "Kom med endringsforslag til denne siden"
 appendFilePath = true
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-0B9HL89D05'
+
+[[languages.en.menu.main]]
+name = "Søk"
+url = "search/"
+icon = "search"

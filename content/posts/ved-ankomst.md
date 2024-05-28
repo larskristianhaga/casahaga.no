@@ -1,10 +1,10 @@
 ---
 title: "Ved ankomst"
-date: 2023-06-07
-weight: 3
+weight: 4
 ---
 
-- Stor nøkkel passer til de to ytre dørene, den første ved gata, og andre til bygget, og den andre nøkkelen til leiligheten.
+- Stor nøkkel passer til de to ytre dørene, den første ved gata, og andre til bygget, og den andre nøkkelen til
+  leiligheten.
 - Husk at det er smekklås. Du kan låse deg ute hvis du ikke har nøkkelen med deg!
 - Skru på hovedsikringen bak inngangsdøren
 - Hovedkranen til vannet er bak døren på vaskerommet.
