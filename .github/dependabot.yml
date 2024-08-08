@@ -1,7 +1,5 @@
 version: 2
-
 updates:
-  # For updating GitHub Action dependencies.
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
