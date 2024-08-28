@@ -15,7 +15,8 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 - Sandstrand i Benidorm. [Kart](https://goo.gl/maps/FyBjHmSGxmXhC7937)
 - Fonts de l'Algar, En naturlig vannkilde i fjellet. [Kart](https://goo.gl/maps/gq3qM8kzSo37dsMM6)
 - Aqualandia, Badeland med sklier og mer. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
-- Magic Robin Hood, Mini badeland, Dagspass til all inclusive. [Kart](https://maps.app.goo.gl/U6wU2XopvfwBQYYKA)
+    - Billigst å bestille på nett i forveien.
+- Magic Robin Hood, Mini badeland, Dagspass til all-inclusive. [Kart](https://maps.app.goo.gl/U6wU2XopvfwBQYYKA)
     - Billigst å bestille på nett i forveien.
     - Finnes gratis parkering ved siden av området.
     - Muligheter for klatring og zipline.
@@ -91,7 +92,7 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
     - Gamlebyen.
 
 - Safari Aitana:
-    - Drive-in zoo. Anbefales sterkt å kjøre samtidig som foringsbilen.
+    - Drive-in Zoo/Safari. Anbefales å ta en guidet tur, da man får se mer av dyrene.
 
 - Fra Denia går det ferger til Formentera, Ibiza og Mallorca.
 
