@@ -22,7 +22,7 @@ defaults:
 jobs:
   build:
     name: Build site
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04-arm
     env:
       HUGO_VERSION: 0.121.0
     steps:
