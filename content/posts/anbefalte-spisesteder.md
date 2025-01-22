@@ -37,29 +37,21 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 
 **NOA**, [Meny](http://noalounge.es/our-menu/), [Kart](https://goo.gl/maps/537vCB3yFEZhuAgk7)
 
-&nbsp;
-
 ### Benimantell:
 
 **Ca Rafel**, [Nettside](https://mesoncarafelbenimantell.eatbu.com/?lang=en), [Kart](https://goo.gl/maps/AuwWGfSsb1XKXjPr6)\
 **Venta la Montana**, [Meny](https://ventalamuntanya.negocio.site/), [Kart](https://goo.gl/maps/o1WQbrJzaR8XGvzeA)\
 **Sonia L'Obrer**, [Meny](https://sonialobrer.eatbu.com/?lang=en#menu), [Kart](https://goo.gl/maps/j5Zus2QuwKtceyYW6)
 
-&nbsp;
-
 ### Guadalest:
 
 **Xortá Restaurante**, [Meny](https://www.instagram.com/stories/highlights/18182155831080911/), [Kart](https://goo.gl/maps/jY9w54ZDg1SC38Zv8)
-
-&nbsp;
 
 ### Villajoyosa:
 
 **T-class**, [Meny](https://www.tclass.es/en/menu/), [Kart](https://goo.gl/maps/P5m53QFn85m8rPjv9)\
 **Restaurante da Marc**, [Meny](https://restaurantepizzeriadamarc.com/#men%C3%BA), [Kart](https://goo.gl/maps/oDysLWqUy6eBEcb77)\
 **Restaurant Le Cabanon**, [Kart](https://goo.gl/maps/DU9StFKeJoNQ3mbn9)
-
-&nbsp;
 
 ### Alicante:
 
