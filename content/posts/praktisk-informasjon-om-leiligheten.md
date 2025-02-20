@@ -7,13 +7,13 @@ Det finnes ett fellesbasseng for alle beboere, bassenget er ca 20x10 meter, med 
 både barn og voksne.
 
 Bilde av basseng fra leiligheten:\
-![Basseng fra leiligheten](/images/basseng_fra_leiligheten.jpg#center)
+![Basseng fra leiligheten](/images/basseng_fra_leiligheten.webp#center)
 
 Bilde av bassengområdet:\
-![Bassenget](/images/basseng_fra_bakkeplan.jpg#center)
+![Bassenget](/images/basseng_fra_bakkeplan.webp#center)
 
 Bilde av Paddel banen:\
-![Paddel bane](/images/paddel_bane.jpg#center)
+![Paddel bane](/images/paddel_bane.webp#center)
 Det ligger utstyr i leiligheten for å spille.
 
 ## Annen praktisk informasjon
