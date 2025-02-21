@@ -5,7 +5,7 @@ theme = 'PaperMod'
 
 [params]
 defaultTheme = "auto"
-description = "Nettside for praktisk informasjon om leiligheten i Spania."
+description = "Nettside for praktisk informasjon om Spania leiligheten"
 enableGitInfo = true
 hideSummary = true
 ShowReadingTime = false
@@ -19,7 +19,7 @@ distance = 1_000
 threshold = 0.2
 
 [params.homeInfoParams]
-Title = "Velkommen!"
+Title = "Velkommen! 👋"
 Content = "Her finner du praktisk informasjon om leiligheten, ting å gjøre i nærheten, og annen nyttig informasjon. \n\n Hvis du har forslag til endringer generelt, eller til en side, send meg en epost på `larskhaga@gmail.com`"
 
 [params.editPost]
