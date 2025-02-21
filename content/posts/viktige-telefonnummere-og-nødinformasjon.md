@@ -1,6 +1,7 @@
 ---
 title: "Viktige telefonnummere og nødinformasjon"
 weight: 5
+robotsNoIndex: true
 ---
 
 **Telefonnummere:**

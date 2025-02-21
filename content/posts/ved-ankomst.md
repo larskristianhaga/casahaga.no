@@ -1,6 +1,7 @@
 ---
 title: "Ved ankomst"
 weight: 4
+robotsNoIndex: true
 ---
 
 - Stor nøkkel passer til de to ytre dørene, den første ved gata, og andre til bygget, og den andre nøkkelen til

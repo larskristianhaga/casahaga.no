@@ -1,6 +1,7 @@
 ---
 title: "Eksterne lenker - Reisekick.no"
 weight: 8
+robotsNoIndex: true
 ---
 
 ### Her ligger det eksterne linker til reisekick med mye bra innhold om Albir og Spania.

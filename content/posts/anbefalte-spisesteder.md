@@ -1,6 +1,7 @@
 ---
 title: "Anbefalte spisesteder"
 weight: 7
+robotsNoIndex: true
 ---
 
 ## Anbefalte restauranter

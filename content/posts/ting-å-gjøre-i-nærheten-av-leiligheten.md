@@ -1,6 +1,7 @@
 ---
 title: "Ting å gjøre i nærheten av leiligheten"
 weight: 6
+robotsNoIndex: true
 ---
 
 Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.

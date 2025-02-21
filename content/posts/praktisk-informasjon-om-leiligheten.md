@@ -1,6 +1,7 @@
 ---
 title: "Praktisk informasjon om leiligheten"
 weight: 3
+robotsNoIndex: true
 ---
 
 Det finnes ett fellesbasseng for alle beboere, bassenget er ca 20x10 meter, med en dyp og grunn del. Det passer fint til

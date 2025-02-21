@@ -1,6 +1,7 @@
 ---
 title: "Ved avreise"
 weight: 9
+robotsNoIndex: true
 ---
 
 - Sjekk postkassen i oppgang A. En liten nøkkel henger på kjøkkenet.

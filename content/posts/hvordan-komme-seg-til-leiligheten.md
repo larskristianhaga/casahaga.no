@@ -1,6 +1,7 @@
 ---
 title: "Hvordan komme seg til leiligheten"
 weight: 2
+robotsNoIndex: true
 ---
 
 ### TL;DR
