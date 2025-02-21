@@ -9,6 +9,7 @@ description = "Nettside for praktisk informasjon om leiligheten i Spania."
 enableGitInfo = true
 hideSummary = true
 ShowReadingTime = false
+robotsNoIndex = true
 
 [outputs]
 home = [ "HTML", "JSON" ]
@@ -34,5 +35,3 @@ appendFilePath = true
 name = "Søk"
 url = "search/"
 icon = "search"
-
-robotsNoIndex = true
