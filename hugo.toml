@@ -34,3 +34,5 @@ appendFilePath = true
 name = "Søk"
 url = "search/"
 icon = "search"
+
+robotsNoIndex = true
