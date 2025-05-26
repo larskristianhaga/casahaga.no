@@ -1,5 +1,5 @@
 ---
-title: "Hvordan komme seg til leiligheten"
+title: "Hvordan komme seg til/fra leiligheten"
 weight: 2
 robotsNoIndex: true
 ---
