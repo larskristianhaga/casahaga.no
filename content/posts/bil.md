@@ -10,14 +10,15 @@ Firmaet som håndterer bilen heter *ASCARS*, de snakker både engelsk og spansk.
 Firmanaavn: `ASCARS`\
 Kundenummer: `IP541`\
 Epost: `info@parkingascars.com`\
-Telefonnummer: `+34 648 966 090`\
-Registreringsnummer på bilen: `8613 JXP`
+Telefonnummer: `+34 648 966 090`
 
 
 [Kart](https://goo.gl/maps/cV7Sh8qjYRpZ2NtMA)\
 [Nettside](https://parkingascars.com/)
 
-Bilen *må* minst bestilles 2 dager før ankomst, og det kan enkelt gjøres via epost. Her er ett eksempel på en mail som kan sendes:
+Bilen *må* minst bestilles 2 dager før ankomst, og det kan enkelt gjøres via epost eller nettside.
+
+Her er ett eksempel på en mail som kan sendes:
 > Hello,
 >
 > Contact IP541, Reg number: 8613 JXP
@@ -30,11 +31,15 @@ Bilen *må* minst bestilles 2 dager før ankomst, og det kan enkelt gjøres via 
 >
 > Thanks in advance.
 
+Ellers så kan man bestille gjennom deres [nettside](https://www.parkingascars.com/members.php).
 
+
+### Informasjon om bilen
 Biltype: `Ford C-Max`\
 Girkasse: `manuell`\
 Antall seter: `5`\
 Drivstoff: `Bensin`\
+Registreringsnummer: `8613 JXP`\
 Parkeringsplass ved leiligheten: `39`
 
 Det er greit plass til 4 personer i bilen, og hvor alle har 1 stykk innsjekket bagasje.
