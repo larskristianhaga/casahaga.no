@@ -6,12 +6,12 @@ on:
     - cron: '3 3 * * 3'
 
 jobs:
-  broken-link-checker:
+  my-broken-link-checker:
+    name: Check broken links
     runs-on: ubuntu-latest
     steps:
-
       - name: Check for broken links
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
-          url: casahaga.no
-          cmd_params: '--buffer-size=8192 --max-connections=10 --color=always --header="User-Agent:curl/7.54.0" --timeout=20'
+          url: https://www.casahaga.no
+          cmd_params: "--max-connections=3 --color=always"  # Check just one page
