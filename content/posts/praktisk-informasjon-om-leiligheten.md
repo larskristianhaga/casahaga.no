@@ -15,7 +15,7 @@ Bilde av bassengområdet:\
 
 Bilde av Paddel banen:\
 ![Paddel bane](/images/paddel_bane.webp#center)
-Det ligger utstyr i leiligheten for å spille.
+Det ligger 2 racketer, og noen tennisballer i leiligheten for å spille.
 
 ## Annen praktisk informasjon
 
