@@ -21,12 +21,12 @@ Det ligger utstyr i leiligheten for å spille.
 
 Hvis du har dårlig dekning, eller opplever at mobildata går tregt, prøv å manuelt bytte til nettverket `Movistar`.
 
-Busstider - [alicante.avanzagrupo.com](https://alicante.avanzagrupo.com/en/routes-and-timetables/all-routes), buss 10 - Albir-Altea-Benidorm\
+Busstider - [alicante.avanzagrupo.com](https://alicante.avanzagrupo.com/en/routes-and-timetables/all-routes), buss 10 - Albir-Altea-Benidorm
 
 Taxi telefonummer:\
 `+34 965 86 2626` Albir\
 `+34 965 85 6101` Albir\
-`+34 966 81 0010` Alfaz\
+`+34 966 81 0010` Alfaz
 
 Kan også gå til nærmeste hotell `Albir Playa Hotel & Spa`, og få de til å bestille for dere.
 
