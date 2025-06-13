@@ -1,28 +1,17 @@
-name: Monthly Link Check
+name: periodic-broken-link-checks
 
 on:
-  schedule:
-    - cron: '0 2 1 * *'
   workflow_dispatch:
+  schedule:
+    - cron: '3 3 * * 3'
 
 jobs:
-  link-check:
+  broken-link-checker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
 
-      - name: Link Checker
-        uses: lycheeverse/lychee-action@v1
+      - name: Check for broken links
+        uses: ruzickap/action-my-broken-link-checker@v2
         with:
-          args: --verbose --no-progress https://casahaga.no
-          fail: true
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
-      - name: Create issue on failure
-        if: failure()
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: Monthly Link Check Failed
-          content-filepath: ./lychee/out.md
-          labels: bug, link-check
+          url: casahaga.no
+          cmd_params: '--buffer-size=8192 --max-connections=10 --color=always --header="User-Agent:curl/7.54.0" --timeout=20'
