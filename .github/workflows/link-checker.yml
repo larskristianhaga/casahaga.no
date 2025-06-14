@@ -2,16 +2,14 @@ name: periodic-broken-link-checks
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '3 3 * * 3'
 
 jobs:
   my-broken-link-checker:
     name: Check broken links
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04-arm
     steps:
       - name: Check for broken links
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://www.casahaga.no
-          cmd_params: "--max-connections=3 --timeout=30 --verbose --follow-sitemap-xml --color=always"
+          cmd_params: "--max-connections=1 --buffer-size=8192 --header=muffet/link-checker --timeout=30 --verbose --color=always"
