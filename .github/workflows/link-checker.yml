@@ -9,7 +9,7 @@ on:
 jobs:
   my-broken-link-checker:
     name: Check broken links
-    runs-on: ubuntu-24.04-arm
+    runs-on: ubuntu-latest
     steps:
       - name: Check for broken links
         uses: ruzickap/action-my-broken-link-checker@v2
