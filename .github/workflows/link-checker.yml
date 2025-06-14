@@ -2,6 +2,8 @@ name: periodic-broken-link-checks
 
 on:
   workflow_dispatch:
+  push:
+    - main
 
 jobs:
   my-broken-link-checker:
@@ -12,4 +14,4 @@ jobs:
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://www.casahaga.no
-          cmd_params: "--max-connections=1 --header=muffet --timeout=30 --verbose --color=always"
+          cmd_params: "--max-connections=1 --timeout=30 --verbose --color=always"
