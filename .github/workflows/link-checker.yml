@@ -15,4 +15,4 @@ jobs:
         uses: ruzickap/action-my-broken-link-checker@v2
         with:
           url: https://www.casahaga.no
-          cmd_params: "--max-connections=1  --buffer-size=8192 --header="User-Agent:muffet" --timeout=30 --verbose --color=always"
+          cmd_params: "--max-connections=1 --buffer-size=8192 --header="User-Agent:muffet" --timeout=30 --verbose --color=always"
