@@ -3,7 +3,8 @@ name: periodic-broken-link-checks
 on:
   workflow_dispatch:
   push:
-    - main
+    branches:
+      - main
 
 jobs:
   my-broken-link-checker:
