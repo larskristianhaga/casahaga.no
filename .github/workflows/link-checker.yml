@@ -1,4 +1,4 @@
-name: periodic-broken-link-checks
+name: Check that links are still working
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: '0 6 1 * *'
 
 jobs:
-  my-broken-link-checker:
+  link-checker:
     name: Check broken links
     runs-on: ubuntu-24.04-arm
     steps:
