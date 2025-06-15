@@ -1,4 +1,4 @@
-name: Check that links are still working
+name: Check for broken links
 
 on:
   workflow_dispatch:
