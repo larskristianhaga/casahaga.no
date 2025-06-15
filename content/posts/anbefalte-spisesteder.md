@@ -12,7 +12,7 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 
 **Pizza 4 you**, [Meny](https://pizza4u.es/en/menu/), [Kart](https://goo.gl/maps/rmptJrDYUtaAAiM19)\
 **Mamma Perrone**, [Booking](https://www.covermanager.com/reserve/module_restaurant/restaurante-mammaperrone/english), [Kart](https://goo.gl/maps/fevpZyJnGcVq2YxFA)\
-**LaCena by Nola**, [Meny](https://lacenabynola.com/#menu), [Kart](https://goo.gl/maps/gb5rdCiX8P5jRX8z8)\
+**LaCena by Nola**, [Meny](https://lacenabynola.com), [Kart](https://goo.gl/maps/gb5rdCiX8P5jRX8z8)\
 **Palmen**, [Meny](https://www.palmenrestaurant.com/#section-menu), [Kart](https://goo.gl/maps/ifChBWhYq5GE94nn7)\
 **Caminito**, [Meny](https://caminitoargentiniangrillinglish.blogspot.com/2019/03/menu.html), [Kart](https://goo.gl/maps/UnHiSTBdQvfDhAu86)\
 **Zero Zero**, [Nettside](https://zerozeroaltea.com/), [Kart](https://goo.gl/maps/LqhNjAzy4iprq1rp9)\
@@ -28,7 +28,7 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 #### Ved kirken
 
 **In Bocca al Lupo**, [Meny](https://inboccaallupoalicante.es/altea/), [Kart](https://goo.gl/maps/7oipk72CiUUaqhai7)\
-**D’els Artistes**, [Meny](http://losartistasrestaurante.com/en/the-menu), [Kart](https://goo.gl/maps/gB7g9bj2L95MV2qE7)\
+**D’els Artistes**, [Kart](https://goo.gl/maps/gB7g9bj2L95MV2qE7)\
 **Oustau**, [Meny](https://www.oustau.es/pages/carta), [Kart](https://goo.gl/maps/yoTT7VMdQY75VYcB6)
 
 #### Cap Negret
@@ -43,7 +43,7 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 
 **Ca Rafel**, [Nettside](https://mesoncarafelbenimantell.eatbu.com/?lang=en), [Kart](https://goo.gl/maps/AuwWGfSsb1XKXjPr6)\
 **Venta la Montana**, [Kart](https://goo.gl/maps/o1WQbrJzaR8XGvzeA)\
-**Sonia L'Obrer**, [Meny](https://sonialobrer.eatbu.com/?lang=en#menu), [Kart](https://goo.gl/maps/j5Zus2QuwKtceyYW6)
+**Sonia L'Obrer**, [Meny](https://sonialobrer.eatbu.com/?lang=en), [Kart](https://goo.gl/maps/j5Zus2QuwKtceyYW6)
 
 ### Guadalest:
 
