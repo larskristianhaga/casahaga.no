@@ -14,7 +14,7 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 - Steinstrand ved sjøen. [Kart](https://goo.gl/maps/4m8BergRQX9jUMMy9)
     - Her anbefales det å ha slippers/strandsko, det finnes ett utvalg i leiligheten.
 - Sandstrand i Benidorm. [Kart](https://goo.gl/maps/FyBjHmSGxmXhC7937)
-    - Mulighet til å leie solstoler og parasoll, koster 6 euro per, tar bare cash. Minibank mange steder rett ved stranden.
+    - Mulighet til å leie solstoler og parasoll, koster 6 euro per, tar kort og kontanter. Minibank mange steder rett ved stranden.
     - Også mulighet til å ligge på stranden med bare håndkle
 - Fonts de l'Algar, En naturlig vannkilde i fjellet. [Kart](https://goo.gl/maps/gq3qM8kzSo37dsMM6)
 - Aqualandia, Badeland med sklier og mer. [Kart](https://goo.gl/maps/bccgvE35k5MfkgXD9)
