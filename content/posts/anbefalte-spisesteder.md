@@ -17,7 +17,7 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 **Caminito**, [Meny](https://caminitoargentiniangrillinglish.blogspot.com/2019/03/menu.html), [Kart](https://goo.gl/maps/UnHiSTBdQvfDhAu86)\
 **Zero Zero**, [Nettside](https://zerozeroaltea.com/), [Kart](https://goo.gl/maps/LqhNjAzy4iprq1rp9)\
 **De Lab**, [Meny](https://buonmenu.com/delab), [Kart](https://goo.gl/maps/8y5cX3FuagXvyXNHA)\
-**Sapporo**, [Kart](https://maps.app.goo.gl/SUQjraURmMsuSber7?g_st=com.google.maps.preview.copy)
+**Sapporo**, [Kart](https://maps.app.goo.gl/2rQ8vVwcWzpvtmg89)
 
 ### Altea:
 
