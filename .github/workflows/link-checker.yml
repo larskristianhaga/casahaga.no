@@ -2,9 +2,8 @@ name: periodic-broken-link-checks
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 6 1 * *'
 
 jobs:
   my-broken-link-checker:
