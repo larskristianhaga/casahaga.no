@@ -14,4 +14,4 @@ jobs:
         uses: ruzickap/action-my-broken-link-checker@f5a3296e86117675ab07b9fbf1a92027e5c340ef # 2.8.1
         with:
           url: https://www.casahaga.no
-          cmd_params: "--max-connections=1 --buffer-size=8192 --header='User-Agent:muffet' --timeout=30 --exclude='^https://casahaga.no/(apple-touch-icon.*.png|favicon.*.(png|ico)|safari-pinned-tab.svg)$' --verbose --color=always"
+          cmd_params: "--max-connections=1 --buffer-size=8192 --header='User-Agent:muffet' --timeout=30 --exclude='apple-touch-icon.png|favicon.*.(png|ico)|safari-pinned-tab.svg' --verbose --color=always"
