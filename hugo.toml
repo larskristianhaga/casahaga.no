@@ -11,6 +11,9 @@ hideSummary = true
 ShowReadingTime = false
 robotsNoIndex = true
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 [outputs]
 home = [ "HTML", "JSON" ]
 
