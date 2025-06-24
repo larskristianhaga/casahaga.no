@@ -1,0 +1,3 @@
+Contact: mailto:larskhaga@gmail.com
+Expires: 2030-12-31T23:59:00.000Z
+Canonical: https://casahaga.no/.well-known/security.txt
