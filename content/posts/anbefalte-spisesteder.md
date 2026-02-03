@@ -52,8 +52,7 @@ Kart over alle restaurantene nedenfor finner du her, [Kart](https://goo.gl/maps/
 ### Villajoyosa:
 
 **T-class**, [Meny](https://www.tclass.es/en/menu/), [Kart](https://goo.gl/maps/P5m53QFn85m8rPjv9)\
-**Restaurante da Marc**, [Kart](https://goo.gl/maps/oDysLWqUy6eBEcb77)\
-**Restaurant Le Cabanon**, [Kart](https://goo.gl/maps/DU9StFKeJoNQ3mbn9)
+**Restaurante da Marc**, [Kart](https://goo.gl/maps/oDysLWqUy6eBEcb77)
 
 ### Alicante:
 

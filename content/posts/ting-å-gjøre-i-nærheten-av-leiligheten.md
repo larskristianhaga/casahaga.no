@@ -62,6 +62,10 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 - Lenker:
     - [12 Topp gåturer på Costa Blanca](https://www.spania24.no/12-topp-gaturer-pa-costa-blanca/)
 
+**Annet:**
+
+- Gokart. [Nettside](https://kartingfinestrat.com)
+
 **Besøk:**
 
 - Alfaz del Pi:
@@ -93,6 +97,10 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
 - Valencia:
     - Oceanografic: Akvarium og temamuseum for naturvitenskap.
     - Gamlebyen.
+
+- Finestad:
+  - Oceanografic: Akvarium og temamuseum for naturvitenskap.
+  - Gamlebyen.
 
 - Safari Aitana:
     - Drive-in Zoo/Safari. Anbefales å ta en guidet tur, da man får se mer av dyrene.

@@ -21,7 +21,10 @@ Det ligger 2 racketer, og noen tennisballer i leiligheten for å spille.
 
 Hvis du har dårlig dekning, eller opplever at mobildata går tregt, prøv å manuelt bytte til nettverket `Movistar`.
 
-Busstider - [alicante.avanzagrupo.com](https://alicante.avanzagrupo.com/en/routes-and-timetables/all-routes), buss 10 - Albir-Altea-Benidorm
+Busstider - [alicante.avanzagrupo.com](https://alicante.avanzagrupo.com/en/routes-and-timetables/all-routes).
+Lokal bussrute:
+Linje 50, Alfas del Pi – Albir – Benidorm
+Linje 10, Albir - Altea - Benidorm
 
 Taxi telefonummer:\
 `+34 965 86 2626` Albir\
