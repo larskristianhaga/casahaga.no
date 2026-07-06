@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-24.04-arm
     steps:
       - name: Check for broken links
-        uses: ruzickap/action-my-broken-link-checker@68d00ba73d919c9f70715625f6cf70f0b0ba19a9 # 3.0.0
+        uses: ruzickap/action-my-broken-link-checker@3337ef0c9ac76042e776df6c44590dd6bf58dcaf # 3.0.1
         with:
           url: https://www.casahaga.no
           cmd_params: "--max-connections=1 --buffer-size=8192 --header='User-Agent:muffet' --timeout=30 --exclude='apple-touch-icon.png|favicon.*.(png|ico)|safari-pinned-tab.svg|googletagmanager.com|cdn-cgi' --verbose --color=always"
