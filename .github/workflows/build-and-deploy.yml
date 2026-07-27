@@ -14,7 +14,7 @@ permissions:
 jobs:
   build:
     name: Build site
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04-arm
     env:
       HUGO_VERSION: 0.144.2
     steps:
@@ -55,7 +55,7 @@ jobs:
   deploy:
     name: Deploy site to GitHub Pages
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04-arm
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

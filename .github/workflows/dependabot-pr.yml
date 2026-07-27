@@ -9,7 +9,7 @@ permissions:
 jobs:
   approve-and-merge-pr:
     name: "Approve and merge Dependabot PR"
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04-arm
     if: ${{ github.actor == 'dependabot[bot]' }}
 
     steps:
