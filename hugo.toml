@@ -3,6 +3,9 @@ languageCode = 'nb'
 title = 'Casa Haga'
 theme = 'PaperMod'
 
+# Reduce discovery/crawl surface: no RSS feeds and no sitemap.xml
+disableKinds = ["RSS", "sitemap"]
+
 [params]
 defaultTheme = "auto"
 description = "Nettside for praktisk informasjon om Spania leiligheten"
@@ -29,10 +32,6 @@ Content = "Her finner du praktisk informasjon om leiligheten, ting å gjøre i n
 URL = "mailto://larskristianhaga@protonmail.com?subject=Endringsforslag "
 Text = "Kom med endringsforslag til denne siden"
 appendFilePath = true
-
-[services]
-  [services.googleAnalytics]
-    id = 'G-0B9HL89D05'
 
 [[languages.en.menu.main]]
 name = "Søk"
