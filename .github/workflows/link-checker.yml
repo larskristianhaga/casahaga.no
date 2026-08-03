@@ -18,3 +18,4 @@ jobs:
         with:
           url: https://www.casahaga.no
           cmd_params: "--max-connections=1 --buffer-size=8192 --header='User-Agent:muffet' --timeout=30 --exclude='apple-touch-icon.png|favicon.*.(png|ico)|safari-pinned-tab.svg|googletagmanager.com|cdn-cgi' --verbose --color=always"
+          debug: true
