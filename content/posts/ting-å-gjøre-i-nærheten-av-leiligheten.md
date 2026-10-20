@@ -98,10 +98,6 @@ Rabattkuponger til ulike temaparker kan hentes ved utgangen på flyplassen.
     - Oceanografic: Akvarium og temamuseum for naturvitenskap.
     - Gamlebyen.
 
-- Finestad:
-  - Oceanografic: Akvarium og temamuseum for naturvitenskap.
-  - Gamlebyen.
-
 - Safari Aitana:
     - Drive-in Zoo/Safari. Anbefales å ta en guidet tur, da man får se mer av dyrene.
 
